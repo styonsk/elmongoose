@@ -1,7 +1,7 @@
 {
-  "name": "elmongo-flex",
+  "name": "elmongoose",
   "description": "Mongoose + Elasticsearch",
-  "version": "1.1.3",
+  "version": "0.0.1",
   "author": "Styonsk",
   "keywords": [
     "mongoose",
@@ -21,10 +21,10 @@
   "engines": {
     "node": ">=0.6.0"
   },
-  "main": "./lib/elmongo-flex",
+  "main": "./lib/elmongoose",
   "repository": {
     "type": "git",
-    "url": "http://github.com/styonsk/elmongo-flex.git"
+    "url": "http://github.com/styonsk/elmongoose.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha -t 90000 -R spec"
