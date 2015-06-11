@@ -6,7 +6,7 @@ Elmongoose is a [mongoose](http://mongoosejs.com/) plugin that integrates your d
 #Install
 
 ```
-npm install elmongo-flex
+npm install elmongoose
 ```
 
 #Usage
