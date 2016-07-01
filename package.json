@@ -1,7 +1,7 @@
 {
   "name": "elmongoose",
   "description": "Mongoose + Elasticsearch",
-  "version": "0.1.95",
+  "version": "0.1.96",
   "author": "Styonsk",
   "keywords": [
     "mongoose",
